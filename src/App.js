@@ -15,7 +15,7 @@ function App() {
       headers: {
         "Content-Type": "application/json",
         Authorization:
-          "EAAGp6OmGBZCUBABJZCX1ig3xK5OX4kHbFFimEaae3vXZApZCXyZAnKAEEdNpTrgoHMacpfzZAs5iOWFZCWhPhGqbki6SiSAoZCdfcfgQ5r2ePqR1XINtmJ0WH9BcWMzYYhwTdIfdf4KR0w4PHKaS8M0dKwQdGKNpSZBsfkfOZCANRZCQr4R0rKEReUI",
+          "Bearer EAAGp6OmGBZCUBABJZCX1ig3xK5OX4kHbFFimEaae3vXZApZCXyZAnKAEEdNpTrgoHMacpfzZAs5iOWFZCWhPhGqbki6SiSAoZCdfcfgQ5r2ePqR1XINtmJ0WH9BcWMzYYhwTdIfdf4KR0w4PHKaS8M0dKwQdGKNpSZBsfkfOZCANRZCQr4R0rKEReUI",
           // EAAGp6OmGBZCUBABJZCX1ig3xK5OX4kHbFFimEaae3vXZApZCXyZAnKAEEdNpTrgoHMacpfzZAs5iOWFZCWhPhGqbki6SiSAoZCdfcfgQ5r2ePqR1XINtmJ0WH9BcWMzYYhwTdIfdf4KR0w4PHKaS8M0dKwQdGKNpSZBsfkfOZCANRZCQr4R0rKEReUI
       },
 
