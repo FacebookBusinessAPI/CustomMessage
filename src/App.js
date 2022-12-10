@@ -14,9 +14,8 @@ function App() {
       url: "https://graph.facebook.com/v15.0/111412271813097/messages",
       headers: {
         "Content-Type": "application/json",
-        Authorization:
-          "Bearer EAAGp6OmGBZCUBABJZCX1ig3xK5OX4kHbFFimEaae3vXZApZCXyZAnKAEEdNpTrgoHMacpfzZAs5iOWFZCWhPhGqbki6SiSAoZCdfcfgQ5r2ePqR1XINtmJ0WH9BcWMzYYhwTdIfdf4KR0w4PHKaS8M0dKwQdGKNpSZBsfkfOZCANRZCQr4R0rKEReUI",
-          // EAAGp6OmGBZCUBABJZCX1ig3xK5OX4kHbFFimEaae3vXZApZCXyZAnKAEEdNpTrgoHMacpfzZAs5iOWFZCWhPhGqbki6SiSAoZCdfcfgQ5r2ePqR1XINtmJ0WH9BcWMzYYhwTdIfdf4KR0w4PHKaS8M0dKwQdGKNpSZBsfkfOZCANRZCQr4R0rKEReUI
+        Authorization: "Bearer EAAGp6OmGBZCUBAOKTRgrVEqGnFhiSgmSwobnaizLxHGwMuBmr5lz6SJUxJTvGxrZBLwAiOsSMBh56lAGrXEKlRZBIs4FiAHG4bkNP6zvhY5aqlGFsU88WXfhGzWIDZAzTg0hImBXSa5jPOFzbwMFVyBFC54HT7fN3pgT4JlU8wP6nqtwZBPta",
+          
       },
 
       data: data,
